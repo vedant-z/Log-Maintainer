@@ -12,15 +12,11 @@ This project is a log ingestor system paired with a query interface that allows 
 
 ### Installation
 
-1. Clone the repository:
-
-   ```
-   git clone https://github.com/dyte-submissions/november-2023-hiring-vedant-z.git
+1. Clone the repository
 
 2. Install dependancies
 
    ```
-   cd november-2023-hiring-vedant-z
    npm install
 
 3. Create a ```.env``` file in the root directory and add your MongoDB Atlas credentials.
@@ -90,16 +86,6 @@ The system follows a client-server architecture, with the log ingestor serving a
 7. **User Feedback:**
    - Provides user-friendly messages for search results and error handling.
 
-## Bonus Features
-
-1. **Toggleable Advanced Filters:**
-   - Implements a feature to hide and show the advanced filters section by clicking a button.
-
-2. **Environment Variable for MongoDB URI:**
-   - Uses the `MONGO_URI` environment variable for secure configuration.
-
-3. **Console Message on Database Connection:**
-   - Logs a message to the console when successfully connected to the MongoDB database.
 
 ## Upcoming Features
 
