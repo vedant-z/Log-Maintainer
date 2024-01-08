@@ -1,6 +1,7 @@
 # Log-Maintainer
 This project is a log ingestor system paired with a query interface that allows efficient handling of vast volumes of log data. It provides a simple interface for querying this data using full-text search or specific field filters.
 
+<a href="https://drive.google.com/file/d/1ceRO_y9cpy9lcAMhAIC1siWtFfCC4AJI/view?usp=sharing">Video Demo</a>
 
 ## Getting Started
 
